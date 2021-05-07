@@ -51,7 +51,7 @@ class Player(game.sprite.Sprite):
 
 
 game_folder = os.path.dirname(__file__)
-img_folder = os.path.join(game_folder,'ART')
+img_folder = os.path.join(game_folder,'img')
 img_file = os.path.join(img_folder,'p1_jump.png')
 
 
